@@ -1,0 +1,244 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\jmespath-1.0.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/jmespath-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/jmespath/__init__.py",
+    "Lib/site-packages/jmespath/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/ast.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/compat.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/functions.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/lexer.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/parser.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/visitor.cpython-312.pyc",
+    "Lib/site-packages/jmespath/ast.py",
+    "Lib/site-packages/jmespath/compat.py",
+    "Lib/site-packages/jmespath/exceptions.py",
+    "Lib/site-packages/jmespath/functions.py",
+    "Lib/site-packages/jmespath/lexer.py",
+    "Lib/site-packages/jmespath/parser.py",
+    "Lib/site-packages/jmespath/visitor.py",
+    "Scripts/__pycache__/jp.cpython-312.pyc",
+    "Scripts/jp.py",
+    ".nonadmin"
+  ],
+  "fn": "jmespath-1.0.1-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\jmespath-1.0.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "9762d250499a39947b36da8a9e452954",
+  "name": "jmespath",
+  "package_tarball_full_path": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\jmespath-1.0.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "66b313cce80ed0623fc7db3f24863a0c80fd83eb341a46b57864158ae74faa56",
+        "sha256_in_prefix": "66b313cce80ed0623fc7db3f24863a0c80fd83eb341a46b57864158ae74faa56",
+        "size_in_bytes": 1084
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "850d34b6f4d88020261efeb0fedabd6f9092341c0042e3f9a36b4f531449d539",
+        "sha256_in_prefix": "850d34b6f4d88020261efeb0fedabd6f9092341c0042e3f9a36b4f531449d539",
+        "size_in_bytes": 7799
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6a270ff43f541c80618fdf7760c008a2ce6b80a2437930cab35c9d382a87b345",
+        "sha256_in_prefix": "6a270ff43f541c80618fdf7760c008a2ce6b80a2437930cab35c9d382a87b345",
+        "size_in_bytes": 1796
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0482047dd9e1da112810af817ae27aa1371f6dc22110cc537f565eaf2a13c7f1",
+        "sha256_in_prefix": "0482047dd9e1da112810af817ae27aa1371f6dc22110cc537f565eaf2a13c7f1",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/jmespath-1.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "beecbfa19d5c92979236b022f092bcfb22063ba6ddb8edeabd6d9c08c4263c7f",
+        "sha256_in_prefix": "beecbfa19d5c92979236b022f092bcfb22063ba6ddb8edeabd6d9c08c4263c7f",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "58d7fc41d5aaa51846eb0c10668148fc608cfdbf2ed81cd110dd1e810b0fab5c",
+        "sha256_in_prefix": "58d7fc41d5aaa51846eb0c10668148fc608cfdbf2ed81cd110dd1e810b0fab5c",
+        "size_in_bytes": 281
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ee3ac185d72f4dfe072e2b0f9d3b90102798a91435ac4c3db58c481ec3619809",
+        "sha256_in_prefix": "ee3ac185d72f4dfe072e2b0f9d3b90102798a91435ac4c3db58c481ec3619809",
+        "size_in_bytes": 763
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/ast.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "439afdbc9e13140d230b5ec6e57f1cd967e57832b46efa3886e0c026b8cf07e7",
+        "sha256_in_prefix": "439afdbc9e13140d230b5ec6e57f1cd967e57832b46efa3886e0c026b8cf07e7",
+        "size_in_bytes": 3333
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/compat.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4ccbf5b38b48a47b2bc2a8c2ef8f3ab74e59fd598e90cf3384f96a36de312f59",
+        "sha256_in_prefix": "4ccbf5b38b48a47b2bc2a8c2ef8f3ab74e59fd598e90cf3384f96a36de312f59",
+        "size_in_bytes": 828
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d7967248a9db5d1b9f34874ce9b9dacda88b05205d09cd0cc95eecbe09bcef63",
+        "sha256_in_prefix": "d7967248a9db5d1b9f34874ce9b9dacda88b05205d09cd0cc95eecbe09bcef63",
+        "size_in_bytes": 6212
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/functions.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc35b160064eb8f8e4695ddade485c70a670831673a50af49febc63a48c378ce",
+        "sha256_in_prefix": "fc35b160064eb8f8e4695ddade485c70a670831673a50af49febc63a48c378ce",
+        "size_in_bytes": 15090
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/lexer.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9cba7e337b4ea534708f43d2ff616891397e81895e4a98e5fa22b8ea864114c9",
+        "sha256_in_prefix": "9cba7e337b4ea534708f43d2ff616891397e81895e4a98e5fa22b8ea864114c9",
+        "size_in_bytes": 9623
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/parser.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2d7b5574e8db2279e28f4cfe89534e2fd695fd835159daa5a73d9e5008dcc5d2",
+        "sha256_in_prefix": "2d7b5574e8db2279e28f4cfe89534e2fd695fd835159daa5a73d9e5008dcc5d2",
+        "size_in_bytes": 25971
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/visitor.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8676dc0e29e163587e83de3d8d9d5d4f9be7040e7f67ddbcc7d465767224b46",
+        "sha256_in_prefix": "c8676dc0e29e163587e83de3d8d9d5d4f9be7040e7f67ddbcc7d465767224b46",
+        "size_in_bytes": 14518
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/ast.py",
+        "path_type": "hardlink",
+        "sha256": "4a21d133599d40f46dd76476aa442efc4cdb77e8219391cbcb51e5d631c0caff",
+        "sha256_in_prefix": "4a21d133599d40f46dd76476aa442efc4cdb77e8219391cbcb51e5d631c0caff",
+        "size_in_bytes": 2130
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/compat.py",
+        "path_type": "hardlink",
+        "sha256": "acc1e9be61b7240c57fe5434c8f2b57612f3fb23ae1326cca9dac4aba45102be",
+        "sha256_in_prefix": "acc1e9be61b7240c57fe5434c8f2b57612f3fb23ae1326cca9dac4aba45102be",
+        "size_in_bytes": 381
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "e47468b7806fdd209376f87994041d401b2a49d68a8ee4cf4b21a6934f334af0",
+        "sha256_in_prefix": "e47468b7806fdd209376f87994041d401b2a49d68a8ee4cf4b21a6934f334af0",
+        "size_in_bytes": 4128
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/functions.py",
+        "path_type": "hardlink",
+        "sha256": "d41183f63d93b8e3a8f55637f7df93b6c821391b35cd4c32bc5ae1b4aa35e920",
+        "sha256_in_prefix": "d41183f63d93b8e3a8f55637f7df93b6c821391b35cd4c32bc5ae1b4aa35e920",
+        "size_in_bytes": 12736
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/lexer.py",
+        "path_type": "hardlink",
+        "sha256": "2c4dfe74cef99f2f51311f265e65a528a453225cfc9e3bd6cfe33edb2e2de560",
+        "sha256_in_prefix": "2c4dfe74cef99f2f51311f265e65a528a453225cfc9e3bd6cfe33edb2e2de560",
+        "size_in_bytes": 8574
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/parser.py",
+        "path_type": "hardlink",
+        "sha256": "fddbb041c94e262f30bfedd5cb70a6eaa98f8110f1fdc1099f773258d93d99eb",
+        "sha256_in_prefix": "fddbb041c94e262f30bfedd5cb70a6eaa98f8110f1fdc1099f773258d93d99eb",
+        "size_in_bytes": 19088
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/visitor.py",
+        "path_type": "hardlink",
+        "sha256": "c38a44cfad82ee5f50b37d003f736638c12be799ee256555fa46fe4211182912",
+        "sha256_in_prefix": "c38a44cfad82ee5f50b37d003f736638c12be799ee256555fa46fe4211182912",
+        "size_in_bytes": 10834
+      },
+      {
+        "_path": "Scripts/__pycache__/jp.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7df7cd0016c047ed3d3359c2f849f764b74d5eb64bbe526caed156d039edf1fd",
+        "sha256_in_prefix": "7df7cd0016c047ed3d3359c2f849f764b74d5eb64bbe526caed156d039edf1fd",
+        "size_in_bytes": 3224
+      },
+      {
+        "_path": "Scripts/jp.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\Users\\dev-admin\\perseverance-python-buildout\\croot\\jmespath_1701807551985\\_h_env",
+        "sha256": "881d181435977a3c6927743ef9d9cf7d944aeea344c30afcf59a5643b4134c8e",
+        "sha256_in_prefix": "75de90b2c8c422ae1373c527a4db09f4db45ba0fda7a3c0693d76398a2aeab28",
+        "size_in_bytes": 1827
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "136bafe984a6cdbd1d034ebf5f2d80a4fc314a70bf8cfe9752bf5c51cce465ef",
+  "size": 49760,
+  "subdir": "win-64",
+  "timestamp": 1701807579000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jmespath-1.0.1-py312haa95532_0.conda",
+  "version": "1.0.1"
+}

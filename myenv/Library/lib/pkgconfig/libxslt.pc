@@ -1,0 +1,12 @@
+prefix=C:/Users/Mahbod/desktop/aa/myenv/Library
+exec_prefix=C:/Users/Mahbod/desktop/aa/myenv/Library
+libdir=C:/Users/Mahbod/desktop/aa/myenv/Library/lib
+includedir=C:/Users/Mahbod/desktop/aa/myenv/Library/include
+
+
+Name: libxslt
+Version: 1.1.37
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lxslt

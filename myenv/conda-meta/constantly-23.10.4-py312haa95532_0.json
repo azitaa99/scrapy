@@ -1,0 +1,178 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\constantly-23.10.4-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/constantly-23.10.4.dist-info/INSTALLER",
+    "Lib/site-packages/constantly-23.10.4.dist-info/LICENSE",
+    "Lib/site-packages/constantly-23.10.4.dist-info/METADATA",
+    "Lib/site-packages/constantly-23.10.4.dist-info/RECORD",
+    "Lib/site-packages/constantly-23.10.4.dist-info/REQUESTED",
+    "Lib/site-packages/constantly-23.10.4.dist-info/WHEEL",
+    "Lib/site-packages/constantly-23.10.4.dist-info/direct_url.json",
+    "Lib/site-packages/constantly-23.10.4.dist-info/top_level.txt",
+    "Lib/site-packages/constantly/__init__.py",
+    "Lib/site-packages/constantly/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/constantly/__pycache__/_constants.cpython-312.pyc",
+    "Lib/site-packages/constantly/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/constantly/_constants.py",
+    "Lib/site-packages/constantly/_version.py",
+    "Lib/site-packages/constantly/test/__init__.py",
+    "Lib/site-packages/constantly/test/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/constantly/test/__pycache__/test_constants.cpython-312.pyc",
+    "Lib/site-packages/constantly/test/test_constants.py",
+    ".nonadmin"
+  ],
+  "fn": "constantly-23.10.4-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\constantly-23.10.4-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "2328a125da73182ca55cae718f254be4",
+  "name": "constantly",
+  "package_tarball_full_path": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\constantly-23.10.4-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "020870fcaf4bf9c50b233e331817094fe109b91c0880570fd476f527cfbfc085",
+        "sha256_in_prefix": "020870fcaf4bf9c50b233e331817094fe109b91c0880570fd476f527cfbfc085",
+        "size_in_bytes": 1116
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ca3f3241e919b7916d45eec85fcb11b0240249ae6802d2d309289d5413b2cf97",
+        "sha256_in_prefix": "ca3f3241e919b7916d45eec85fcb11b0240249ae6802d2d309289d5413b2cf97",
+        "size_in_bytes": 1822
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7bce1ba32977a52609def690f2a4c2904c70866b65d480996c6e221dcf23fe9b",
+        "sha256_in_prefix": "7bce1ba32977a52609def690f2a4c2904c70866b65d480996c6e221dcf23fe9b",
+        "size_in_bytes": 1392
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "80c01db722292320f41c1d50e43fb88f280392b80e3b519d9150ede98dff3d10",
+        "sha256_in_prefix": "80c01db722292320f41c1d50e43fb88f280392b80e3b519d9150ede98dff3d10",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "Lib/site-packages/constantly-23.10.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6772d9c514f7b15ece21c2dd772816cbcad16a0b9ce1ad61946a2d0ecfaf1483",
+        "sha256_in_prefix": "6772d9c514f7b15ece21c2dd772816cbcad16a0b9ce1ad61946a2d0ecfaf1483",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/constantly/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3aa075cf2cb558fed37a823d01788cd41cc75a415a1d6193d527816c6677d4de",
+        "sha256_in_prefix": "3aa075cf2cb558fed37a823d01788cd41cc75a415a1d6193d527816c6677d4de",
+        "size_in_bytes": 497
+      },
+      {
+        "_path": "Lib/site-packages/constantly/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2c5d431518253d7dec91cca4661b6482b3ac844244b23acba4e7c959771f83e8",
+        "sha256_in_prefix": "2c5d431518253d7dec91cca4661b6482b3ac844244b23acba4e7c959771f83e8",
+        "size_in_bytes": 671
+      },
+      {
+        "_path": "Lib/site-packages/constantly/__pycache__/_constants.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6e20d7c2bc5dcf1bca7600ac9d522e7f95384599281c23916eecacd744eecdac",
+        "sha256_in_prefix": "6e20d7c2bc5dcf1bca7600ac9d522e7f95384599281c23916eecacd744eecdac",
+        "size_in_bytes": 19731
+      },
+      {
+        "_path": "Lib/site-packages/constantly/__pycache__/_version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c0ffe4a7d46d807ad5ec5c2cae1c293d8b9f7e05d39d36781ebf7531aec6c47",
+        "sha256_in_prefix": "9c0ffe4a7d46d807ad5ec5c2cae1c293d8b9f7e05d39d36781ebf7531aec6c47",
+        "size_in_bytes": 527
+      },
+      {
+        "_path": "Lib/site-packages/constantly/_constants.py",
+        "path_type": "hardlink",
+        "sha256": "49fabd596aeaa181dac07cffe0021e16f6f20dbd12a07984829fabd1f0f112d3",
+        "sha256_in_prefix": "49fabd596aeaa181dac07cffe0021e16f6f20dbd12a07984829fabd1f0f112d3",
+        "size_in_bytes": 16005
+      },
+      {
+        "_path": "Lib/site-packages/constantly/_version.py",
+        "path_type": "hardlink",
+        "sha256": "21c1c4565e8ceb3d2e72217ee4a5796151766501f6bded2c7f1516fd02c00f87",
+        "sha256_in_prefix": "21c1c4565e8ceb3d2e72217ee4a5796151766501f6bded2c7f1516fd02c00f87",
+        "size_in_bytes": 520
+      },
+      {
+        "_path": "Lib/site-packages/constantly/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d44f3ab7f91173eb6a7600852829565d2f768546f1e4d87e20377080feb58824",
+        "sha256_in_prefix": "d44f3ab7f91173eb6a7600852829565d2f768546f1e4d87e20377080feb58824",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "Lib/site-packages/constantly/test/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8cdf927555cce89bdf40e964e766b86ab038769dd9825952c192c837d956f68e",
+        "sha256_in_prefix": "8cdf927555cce89bdf40e964e766b86ab038769dd9825952c192c837d956f68e",
+        "size_in_bytes": 182
+      },
+      {
+        "_path": "Lib/site-packages/constantly/test/__pycache__/test_constants.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6234958bb76acbc9f5fd716e488f04cf1a39395e8b38afb4f5216eec82effe89",
+        "sha256_in_prefix": "6234958bb76acbc9f5fd716e488f04cf1a39395e8b38afb4f5216eec82effe89",
+        "size_in_bytes": 60116
+      },
+      {
+        "_path": "Lib/site-packages/constantly/test/test_constants.py",
+        "path_type": "hardlink",
+        "sha256": "657c8a6a2d63a3c4a1f0515a17ff241e85d7491fa4b5a74683cc3bb12a26eeab",
+        "sha256_in_prefix": "657c8a6a2d63a3c4a1f0515a17ff241e85d7491fa4b5a74683cc3bb12a26eeab",
+        "size_in_bytes": 37364
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5b72871a3ebd3287d3c23a3c848d33b39c57f6cd4ce1beae0de3a49c90a80c98",
+  "size": 32701,
+  "subdir": "win-64",
+  "timestamp": 1703165857000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/constantly-23.10.4-py312haa95532_0.conda",
+  "version": "23.10.4"
+}

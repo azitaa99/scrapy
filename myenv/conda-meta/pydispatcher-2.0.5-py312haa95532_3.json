@@ -1,0 +1,194 @@
+{
+  "build": "py312haa95532_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\pydispatcher-2.0.5-py312haa95532_3",
+  "files": [
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/INSTALLER",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/METADATA",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/RECORD",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/REQUESTED",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/WHEEL",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/direct_url.json",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/license.txt",
+    "Lib/site-packages/PyDispatcher-2.0.5.dist-info/top_level.txt",
+    "Lib/site-packages/pydispatch/__init__.py",
+    "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/errors.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robust.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/dispatcher.py",
+    "Lib/site-packages/pydispatch/errors.py",
+    "Lib/site-packages/pydispatch/robust.py",
+    "Lib/site-packages/pydispatch/robustapply.py",
+    "Lib/site-packages/pydispatch/saferef.py",
+    ".nonadmin"
+  ],
+  "fn": "pydispatcher-2.0.5-py312haa95532_3.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\pydispatcher-2.0.5-py312haa95532_3",
+    "type": 1
+  },
+  "md5": "3a15f8a70aab8d7a5078de1404a8d033",
+  "name": "pydispatcher",
+  "package_tarball_full_path": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\pydispatcher-2.0.5-py312haa95532_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1a2fd9eadcfa3a22992b5df753dc1e7012a3327b60b137b1763299da3c85105d",
+        "sha256_in_prefix": "1a2fd9eadcfa3a22992b5df753dc1e7012a3327b60b137b1763299da3c85105d",
+        "size_in_bytes": 1273
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f47435b664e674a9d0008f08eec578da56e14f7f899fa14f6a1270ef706074b2",
+        "sha256_in_prefix": "f47435b664e674a9d0008f08eec578da56e14f7f899fa14f6a1270ef706074b2",
+        "size_in_bytes": 1492
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d9ffa70360a5fa0e9508820c536b1d2976c2d067d33f86fc8180f38aff9448ac",
+        "sha256_in_prefix": "d9ffa70360a5fa0e9508820c536b1d2976c2d067d33f86fc8180f38aff9448ac",
+        "size_in_bytes": 120
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/license.txt",
+        "path_type": "hardlink",
+        "sha256": "aeec9c40c508ce52e66e3eb087c062d8ecf49622a4abd3af79410506b43b698b",
+        "sha256_in_prefix": "aeec9c40c508ce52e66e3eb087c062d8ecf49622a4abd3af79410506b43b698b",
+        "size_in_bytes": 1564
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "056ebd80cd88c883df164f09d77791c31cd5962734e3aae8137587e5bc9ae412",
+        "sha256_in_prefix": "056ebd80cd88c883df164f09d77791c31cd5962734e3aae8137587e5bc9ae412",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7ab8879874217a6f6447d29597a4c351abd84529b939197f89dbeea9c6ad9c9c",
+        "sha256_in_prefix": "7ab8879874217a6f6447d29597a4c351abd84529b939197f89dbeea9c6ad9c9c",
+        "size_in_bytes": 170
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8ef1bc5efed8d39dcd4e2906e0fe3484a021529a6279c82a5be1a6328638b04",
+        "sha256_in_prefix": "a8ef1bc5efed8d39dcd4e2906e0fe3484a021529a6279c82a5be1a6328638b04",
+        "size_in_bytes": 338
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d467da15406c23553ac51ceddbebdc395bde9d2ef4ec5183d5a59c97283b7ec7",
+        "sha256_in_prefix": "d467da15406c23553ac51ceddbebdc395bde9d2ef4ec5183d5a59c97283b7ec7",
+        "size_in_bytes": 17172
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/errors.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1b011ba8d4a18a8e4a5b3200251345ba941df8264c40b887bab149a3d16658e",
+        "sha256_in_prefix": "f1b011ba8d4a18a8e4a5b3200251345ba941df8264c40b887bab149a3d16658e",
+        "size_in_bytes": 900
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/robust.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "07976696a80f4649688c75a1c71b6b94ebb5197b5dfe9431e676f323f96d7cc7",
+        "sha256_in_prefix": "07976696a80f4649688c75a1c71b6b94ebb5197b5dfe9431e676f323f96d7cc7",
+        "size_in_bytes": 2237
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4d18e136bc6a8bf0f7b75580c1c672c73a23cf1d76dc6613a362ebdc47ee6ef",
+        "sha256_in_prefix": "d4d18e136bc6a8bf0f7b75580c1c672c73a23cf1d76dc6613a362ebdc47ee6ef",
+        "size_in_bytes": 2488
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf4475cc36dc1e6b80d63e6f98305d73a1478d8271ed8c7503759210a11c95a2",
+        "sha256_in_prefix": "cf4475cc36dc1e6b80d63e6f98305d73a1478d8271ed8c7503759210a11c95a2",
+        "size_in_bytes": 9124
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/dispatcher.py",
+        "path_type": "hardlink",
+        "sha256": "bc8e84b239fa9aa7f704b22d946db676d5458462e7cd6ed5b93254dff039f584",
+        "sha256_in_prefix": "bc8e84b239fa9aa7f704b22d946db676d5458462e7cd6ed5b93254dff039f584",
+        "size_in_bytes": 16746
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/errors.py",
+        "path_type": "hardlink",
+        "sha256": "98369fb16102b42d0e14ba6024fe4237672ce3ef72f11b64e313b8e115421b3f",
+        "sha256_in_prefix": "98369fb16102b42d0e14ba6024fe4237672ce3ef72f11b64e313b8e115421b3f",
+        "size_in_bytes": 371
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/robust.py",
+        "path_type": "hardlink",
+        "sha256": "f3fb07f3bdc00e6632a7a5074cbff81209c674c9096f7a6e1e957c36f7e18e3e",
+        "sha256_in_prefix": "f3fb07f3bdc00e6632a7a5074cbff81209c674c9096f7a6e1e957c36f7e18e3e",
+        "size_in_bytes": 2083
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/robustapply.py",
+        "path_type": "hardlink",
+        "sha256": "813b7811c89c21fd275df396cb2092484dc02afaea82cdca70c29e1c986ea170",
+        "sha256_in_prefix": "813b7811c89c21fd275df396cb2092484dc02afaea82cdca70c29e1c986ea170",
+        "size_in_bytes": 2085
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/saferef.py",
+        "path_type": "hardlink",
+        "sha256": "b673008adc866c07c1f73ed5bc2e136ca41650a2c0db38d79e613300645902bf",
+        "sha256_in_prefix": "b673008adc866c07c1f73ed5bc2e136ca41650a2c0db38d79e613300645902bf",
+        "size_in_bytes": 7374
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "90305bf93024ec54ae33603a3e0e26bb7b9e9361c82a0411a1edf6cf760ecd3f",
+  "size": 25110,
+  "subdir": "win-64",
+  "timestamp": 1699543057000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pydispatcher-2.0.5-py312haa95532_3.conda",
+  "version": "2.0.5"
+}

@@ -1,0 +1,166 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "itemadapter >=0.1.0",
+    "jmespath >=0.9.5",
+    "parsel >=1.5.0",
+    "python >=3.12,<3.13.0a0",
+    "w3lib >=1.17.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\itemloaders-1.1.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/itemloaders/__init__.py",
+    "Lib/site-packages/itemloaders/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/common.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/processors.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/common.py",
+    "Lib/site-packages/itemloaders/processors.py",
+    "Lib/site-packages/itemloaders/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "itemloaders-1.1.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\itemloaders-1.1.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "79cdcee34fe9b2346e9bf8ab84b09906",
+  "name": "itemloaders",
+  "package_tarball_full_path": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\itemloaders-1.1.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "fd331af3ccb8776bbe7f317821e5e0b91c2ab7c73464e77425d52204f7b5d980",
+        "sha256_in_prefix": "fd331af3ccb8776bbe7f317821e5e0b91c2ab7c73464e77425d52204f7b5d980",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0cc940696542c46a2984b50b8c6ef212bd0af550da9d8cad86a15785609a7bcb",
+        "sha256_in_prefix": "0cc940696542c46a2984b50b8c6ef212bd0af550da9d8cad86a15785609a7bcb",
+        "size_in_bytes": 3999
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "dc16ee8495cc210ce8ce790f87a7378b22069a90c12a4bad2cb145c339784600",
+        "sha256_in_prefix": "dc16ee8495cc210ce8ce790f87a7378b22069a90c12a4bad2cb145c339784600",
+        "size_in_bytes": 1220
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "425b35c717d29a3946663f29574ef1b43737a243b01f73643c9b4fa106c73bcd",
+        "sha256_in_prefix": "425b35c717d29a3946663f29574ef1b43737a243b01f73643c9b4fa106c73bcd",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f2bd886c8301573ed5ecb8e3eb557621b46515d0caa87963293b6146bfe5a9c9",
+        "sha256_in_prefix": "f2bd886c8301573ed5ecb8e3eb557621b46515d0caa87963293b6146bfe5a9c9",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e43254e5801606863be39bff0667aba4b39082240b59abfed3a6e8f38d9b099a",
+        "sha256_in_prefix": "e43254e5801606863be39bff0667aba4b39082240b59abfed3a6e8f38d9b099a",
+        "size_in_bytes": 19047
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc78cf274c55106dda27808c16641a26a815086565823bcc7231d8843acff631",
+        "sha256_in_prefix": "fc78cf274c55106dda27808c16641a26a815086565823bcc7231d8843acff631",
+        "size_in_bytes": 24576
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/common.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "974adc3d9fcb3e7d67696b669cdb96beffa5b15d53492840c2600cd305074881",
+        "sha256_in_prefix": "974adc3d9fcb3e7d67696b669cdb96beffa5b15d53492840c2600cd305074881",
+        "size_in_bytes": 685
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/processors.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "009cb1e52b08dc3bf1ac814b3e7d67f42f0fa54571657a292cf88d60980fcfba",
+        "sha256_in_prefix": "009cb1e52b08dc3bf1ac814b3e7d67f42f0fa54571657a292cf88d60980fcfba",
+        "size_in_bytes": 10413
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/utils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f24937666470dbb43e2356574c7588dd7e6f245ee8b89175dc8f711e68fbd51",
+        "sha256_in_prefix": "5f24937666470dbb43e2356574c7588dd7e6f245ee8b89175dc8f711e68fbd51",
+        "size_in_bytes": 2109
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/common.py",
+        "path_type": "hardlink",
+        "sha256": "0b2b9cb133d953c585b2ef262f7f713fd7b48aaffa78c0ef59268c313576dc5d",
+        "sha256_in_prefix": "0b2b9cb133d953c585b2ef262f7f713fd7b48aaffa78c0ef59268c313576dc5d",
+        "size_in_bytes": 467
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/processors.py",
+        "path_type": "hardlink",
+        "sha256": "c4adc5a2b4fa49773535b1f19800cee44111e0658a1621a614330a87dc2746a4",
+        "sha256_in_prefix": "c4adc5a2b4fa49773535b1f19800cee44111e0658a1621a614330a87dc2746a4",
+        "size_in_bytes": 8567
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/utils.py",
+        "path_type": "hardlink",
+        "sha256": "7d05ff3f76b080d4eda6c17d6f0cd645607d58d03b635fbb1888ef04cfaf2ec6",
+        "sha256_in_prefix": "7d05ff3f76b080d4eda6c17d6f0cd645607d58d03b635fbb1888ef04cfaf2ec6",
+        "size_in_bytes": 1466
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "17cda52afe9250270a408b35733dad7a5daf425ab97f1fa87698793d57073d4b",
+  "size": 31607,
+  "subdir": "win-64",
+  "timestamp": 1708640280000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/itemloaders-1.1.0-py312haa95532_0.conda",
+  "version": "1.1.0"
+}

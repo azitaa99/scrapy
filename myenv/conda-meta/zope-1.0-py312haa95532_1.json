@@ -1,0 +1,50 @@
+{
+  "build": "py312haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\zope-1.0-py312haa95532_1",
+  "files": [
+    "Lib/site-packages/zope/__init__.py",
+    "Lib/site-packages/zope/__pycache__/__init__.cpython-312.pyc",
+    ".nonadmin"
+  ],
+  "fn": "zope-1.0-py312haa95532_1.conda",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\zope-1.0-py312haa95532_1",
+    "type": 1
+  },
+  "md5": "1fdea38a09db380b8101f0679fd3ad5f",
+  "name": "zope",
+  "package_tarball_full_path": "C:\\Users\\Mahbod\\miniconda3\\pkgs\\zope-1.0-py312haa95532_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/zope/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "22b96cfe0e9a3933338f55dc41c356cdfeb59e22590af42f465408abff5f5132",
+        "sha256_in_prefix": "22b96cfe0e9a3933338f55dc41c356cdfeb59e22590af42f465408abff5f5132",
+        "size_in_bytes": 243
+      },
+      {
+        "_path": "Lib/site-packages/zope/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e74ec6471c08ba1ae4b8170741de2828f8492ddac91421d2f5ff326c484fde02",
+        "sha256_in_prefix": "e74ec6471c08ba1ae4b8170741de2828f8492ddac91421d2f5ff326c484fde02",
+        "size_in_bytes": 131
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3621ffd769bf9ddf604abbb85fdf324c3d1d66e55446ae425def918ca8cb9235",
+  "size": 4849,
+  "subdir": "win-64",
+  "timestamp": 1699483575000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zope-1.0-py312haa95532_1.conda",
+  "version": "1.0"
+}
